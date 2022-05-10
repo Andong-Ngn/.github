@@ -1,5 +1,3 @@
-# .github
-
 2019
 * 파이썬을 통해 ip카메라 통신   
 https://github.com/kim-seungmin/capture-ip-camera   
