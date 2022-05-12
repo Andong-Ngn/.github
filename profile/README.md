@@ -6,6 +6,8 @@ https://github.com/kim-seungmin/watching-ip-camera
 2020   
 * 얼티마 곡물분류기   
 https://github.com/kim-seungmin/Ultima   
+* 리눅스 점검 시스템   
+https://github.com/ssangjinny/Lynux_Security_Tool   
 
 2021
 
